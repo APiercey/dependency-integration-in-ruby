@@ -1,0 +1,3 @@
+- Don't Mock What You Don't Own
+  - Good rule but really extreme
+- Mocking direct interfaces leads to inconsistent results
